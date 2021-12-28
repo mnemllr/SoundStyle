@@ -1,4 +1,4 @@
-package com.plcoding.spotifycloneyt
+package me.mnemllr.soundstyle
 
 import org.junit.Test
 
